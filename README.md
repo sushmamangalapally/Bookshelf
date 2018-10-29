@@ -2,9 +2,7 @@
 
 This project is a bookshelf app that allows user to select and categorize books they have read, are currently reading, or want to read.
 
-## TL;DR
-
-##For UI setup:
+## For UI setup:
 * Clone this repository
 * Install all project dependencies with `npm install`
 * Start the development server with `npm start`
